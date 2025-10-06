@@ -1,2 +1,2 @@
-# Python-Voice-Assistant
+# Voice-Assistant
 “Voice-controlled personal assistant in Python with web automation.”
